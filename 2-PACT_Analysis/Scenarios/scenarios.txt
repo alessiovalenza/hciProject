@@ -1,0 +1,19 @@
+SCENARIO 1
+vignette:
+A.l'atleta entra in palestra ed incontra il PT
+B.l'atleta da il suo codice al PT per cosi può aggiungerlo alla sua "lista Atleti"
+C.Il l'Atleta inizia a flexare seguendo la scheda dall'APP
+
+SCENARIO 2
+vignette:
+A.la palestra fa chiusura anticipata/straoridinaria
+B.Il PT manda una comunicazione tramite l'APP ai clienti
+C.li cliente riceve una notifica e legge l'avviso
+
+SCENARIO 3 (solo in caso di clienti che sono interessati alla massa muscolare, NON adatto per clienti anziani)
+vignette:
+A.L'atleta è da parecchio che si allena
+B.il PT misura quanto è grosso
+C.il PT aggiorna le misure sull'APP
+D.l'Atleta può vedere nella sezione grafici i miglioramenti
+	
