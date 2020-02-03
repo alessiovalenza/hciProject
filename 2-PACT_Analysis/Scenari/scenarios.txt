@@ -1,0 +1,27 @@
+
+Il primo scenario coinvolge tutti i tipi di utenti, rappresenta la fase "inziale" dove l'atleta da il suo codice al Personal Trainer, sicchè egli possa aggiunerlo all'elenco
+di clienti che segue 
+SCENARIO 1
+vignette:
+A.l'atleta entra in palestra ed incontra il PT
+B.l'atleta da il suo codice al PT per cosi può aggiungerlo alla sua "lista Atleti"
+C.Il l'Atleta inizia a flexare seguendo la scheda dall'APP
+
+Anche il secondo scenario coinvolge tutti i tipi di utenti, rappresenta l'uso dell'APP nel caso ci siano imprevisti con gli orari della palestra, il Personal Trainer può
+comunicare tale modifica agli orari di apertura a tutti i clienti che segue con un semplice messaggio che viene inviato a tutti
+SCENARIO 2
+vignette:
+A.la palestra fa chiusura anticipata/straoridinaria
+B.Il PT manda una comunicazione tramite l'APP ai clienti
+C.li cliente riceve una notifica e legge l'avviso
+
+Il terzo scenario interessa il caso di clienti che sono interessati alla massa muscolare,tipico scenario per i body builder, non altrettanto per i clienti anziani.
+Al termine di una sessione di allenamento il Personal Trainer aggiorna le "circonferenze" (si dice cosi??) dell'atleta nella sua relativa scheda dell'APP.
+L'atleta potrà poi vedere i suoi miglioramenti nel tempo e tramite un grafico
+SCENARIO 3 
+vignette:
+A.L'atleta è da parecchio che si allena
+B.il PT misura quanto è grosso
+C.il PT aggiorna le misure sull'APP
+D.l'Atleta può vedere nella sezione grafici i miglioramenti
+	
