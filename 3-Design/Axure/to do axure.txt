@@ -1,0 +1,27 @@
+LOGIN:
+a posto
+CREATE ACCOUNT:
+a posto
+BROADCAST AT:
+a posto
+MIGLIORAMENTI:
+fare varie schede swipabile
+se possibile, fare che il grafico si aggiorna
+SCHEDE:
+se si riesce, fare il timer che funziona
+TUTORIAL:
+a posto
+HOMEPAGE:
+a posto
+CHAT:
+se possibile, fare che se scrivi un nuovo messaggio, esso compare
+BROADCAST PT:
+se possibile, fare che se scrivi un nuovo messaggio, esso compare
+COMPILA SCHEDE:
+fare varie schede swipabile
+se si riesce, fare che è possibile eliminarne una e le altre si
+riposizionano di conseguenza
+CLIENTI:
+a posto
+EDITOR ATLETI:
+a posto
