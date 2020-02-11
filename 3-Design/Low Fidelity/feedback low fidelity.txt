@@ -1,0 +1,10 @@
+- non mettere il day1/day2/day3 ma mettere i giorni della settimana
+- non è intuitivo cosa fare nella homepage degli utenti
+- grafici poco chiari, inserire anche cose non relative alle misure
+- se ripetizioni/recupero/peso sono 0, allora non metterli proprio nel widget degli esercizi
+- togliere il simbolo del video nelle schede, troppo piccolo, l'intera scheda deve essere cliccabile
+- metti il timer
+- possibilità di aggiungere un nuovo giorno nell'editor
+- metti il nome di della persona nell'editor
+- aggiungere la possibilità di cancellare una scheda dall'editor
+- aggiungere la possibilità cancellare un giorno dalla scheda
